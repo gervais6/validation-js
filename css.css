@@ -1,0 +1,53 @@
+#ul{
+font-size:20px;
+list-style-type:none;
+word-wrap:break-word;
+}
+
+li{
+   border: 1px  solid rgb(233, 232, 232);
+   margin-bottom: 20px;
+   margin-left:-33px;
+   height: 62px;
+   border-radius: 5px;
+   line-height: 50px;
+   padding-left: 5px;
+   background-color: white;
+   
+  
+  
+
+}
+
+li button{
+  float: right;
+  height: 60px;
+}
+
+
+li .bi-check-circle-fill {
+  margin-right: 50px;
+  font-size: 25px;
+ 
+  
+}
+
+g{
+  text-decoration:line-through;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
